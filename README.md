@@ -1,7 +1,7 @@
 # Hotel Booking Platform
 
 A full-stack hotel booking application with customer and hotel owner interfaces.
-Live on: https://quickstay-sepia.vercel.app/
+Live on: https://quickk-stayy.vercel.app/
 
 ## Features
 
